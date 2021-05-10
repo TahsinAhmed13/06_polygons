@@ -1,3 +1,1 @@
-# 05_3d
-
-![frosty.png](frosty)
+# 06_polygons
